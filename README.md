@@ -2,7 +2,7 @@
 
 Descripción
 
-NetCompute es una aplicación de cálculo distribuido diseñada para el procesamiento eficiente de operaciones sobre grandes volúmenes de datos, mediante el uso de múltiples computadoras interconectadas a un servidor central.
+La calculadora distribuida es una aplicación de cálculo distribuido diseñada para el procesamiento eficiente de operaciones sobre grandes volúmenes de datos, mediante el uso de múltiples computadoras interconectadas a un servidor central.
 
 El sistema implementa un enfoque de delegación de tareas, donde los clientes envían solicitudes de cálculo al servidor, el cual se encarga de gestionar y distribuir la carga de trabajo de manera eficiente. Este modelo permite optimizar el uso de recursos computacionales y reducir los tiempos de procesamiento.
 
