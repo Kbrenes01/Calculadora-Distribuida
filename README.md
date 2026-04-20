@@ -23,10 +23,10 @@ Distribución de tareas entre los clientes disponibles
 Procesamiento y retorno de resultados
 Cliente
 Envío de operaciones al servidor
-Ejecución de tareas asignadas (según la lógica implementada)
+Ejecución de tareas asignadas 
 Presentación de resultados al usuario final
  Tecnologías Utilizadas
 Lenguaje de programación: Java
 Comunicación: Sockets
-Manejo de datos: (especificar: XML, JSON u otro formato según implementación)
+Manejo de datos: (XML, JSON)
 Arquitectura: Cliente-Servidor
